@@ -1,0 +1,24 @@
+{
+  "name": "gms-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pattussi/gms-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pattussi/gms-test/issues"
+  },
+  "homepage": "https://github.com/Pattussi/gms-test#readme",
+  "dependencies": {
+    "cypress": "^15.3.0"
+  }
+}
